@@ -1,5 +1,5 @@
-from Modules1.invoice import invoice
-from Modules1.order import order
+from Module1.invoice import invoice
+from Module1.order import order
 #  input("Enter torder he options "invoice" or "order":)
 print('Enter your  options "invoice" or "order":')
 x = input()
